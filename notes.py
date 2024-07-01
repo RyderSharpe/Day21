@@ -1,5 +1,6 @@
 ## Inheritance ##
 
+
 class Animal:  # Base class (parent class)
     def __init__(self):
         pass  # Placeholder for initialization in the Animal class
